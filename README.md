@@ -1,5 +1,9 @@
 # CoinHeist
 
+> [!IMPORTANT]
+> This repository is a clean clone intended for presentation and readability. To view the full project history and original contributions, visit the **[Original Development Repository](https://github.com/LucyShortForLucas/NESSAN)**.
+
+---
 <table width="100%">
   <tr>
     <td width="80%" align="left">
@@ -16,11 +20,12 @@
   </tr>
 </table>
 
+
 ---
 
 ## 📸 Showcase
 <p align="center">
-  <img src="CoinHeist/Assets/CoinHeist.png" width="600" alt="Crazy Pong Gameplay">
+  <img src="CoinHeist/Assets/CoinHeist.gif" width="600" alt="Crazy Pong Gameplay">
   <br />
 </p>
 
