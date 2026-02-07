@@ -15,7 +15,7 @@
       </p>
     </td>
     <td width="20%" align="right">
-      <img src="Game/SL1M3/Assets/gifs/logo.png" width="600" alt="CoinHeist Logo" />
+      <img src="assets/logo.png" width="600" alt="CoinHeist Logo" />
     </td>
   </tr>
 </table>
@@ -25,7 +25,7 @@
 
 ## 📸 Showcase
 <p align="center">
-  <img src="CoinHeist/Assets/CoinHeist.gif" width="600" alt="Crazy Pong Gameplay">
+  <img src="assets/CoinHeist.gif" width="600" alt="CoinHeist Gameplay">
   <br />
 </p>
 
